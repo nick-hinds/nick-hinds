@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I’m Nick Hinds
 
-<!--
-**nick-hinds/nick-hinds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Systems Engineer** | DIY Enthusiast | Raspberry Pi Tinkerer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- Python & Bash scripting
+- Linux systems & networking
+- Kubernetes (k8s)
+- Android & Java
+- Raspberry Pi projects
+
+---
+
+### 🚀 Favorite Project
+**Raspberry Pi Magic Mirror**  
+Display useful data, reminders, and more — all custom-built for my home setup.
+
+---
+
+### 🏡 When I’m not at my desk
+- Building Legos
+- Watching movies
+- Gaming & hiking
+- Hanging out with my dog
+
+<img src="https://lh3.googleusercontent.com/pw/AP1GczOaBezC0i-ArMVfAZWofmOU3_ko8u0Jtr8wDpnbaqT9mjZ0UIvS6XQDy6pKAxpfK7w1UoNFCnJCqHokzYf-z6TDo_bZh218viVRHZmBKMCZK5r90ONiQw3fIj6OjnD-au7pTOmFfstQ5rE-HLFRDD2GfA=w1276-h1696-s-no?authuser=0" width="200"/>
+
+---
