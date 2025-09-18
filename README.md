@@ -1,10 +1,10 @@
-# 👋 Hi, I’m Nick Hinds
+#  Hi, :four_leaf_clover: I’m Nick Hinds
 
 **Systems Engineer** | DIY Enthusiast | Raspberry Pi Tinkerer
 
 ---
 
-### 🛠️ Skills
+### :computer: Skills
 - Python & Bash scripting
 - Linux systems & networking
 - Kubernetes (k8s)
@@ -13,13 +13,13 @@
 
 ---
 
-### 🚀 Favorite Project
+### :space_invader: Favorite Project
 **Raspberry Pi Magic Mirror**  
 Display useful data, reminders, and more — all custom-built for my home setup.
 
 ---
 
-### 🏡 When I’m not at my desk
+### :sunrise_over_mountains: When I’m not at my desk
 - Building Legos
 - Watching movies
 - Gaming & hiking
