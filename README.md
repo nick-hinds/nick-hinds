@@ -18,7 +18,7 @@
 Display useful data, reminders, and more — all custom-built for my home setup.
 
 **Traffic Tracer** \
-A system for utilizing pre-exist store camera systems to tace foot taffic in and out of a business using OpenCV.
+A system for utilizing pre-exist store camera systems to trace foot traffic in and out of a business using OpenCV.
 
 **Guessing Cloud** \
 a simple word game where a word cloud is generated to hint at a specifc word that the user must guest.
